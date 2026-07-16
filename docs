@@ -1,0 +1,7 @@
+README.md                 ← Keep in the root (do not move)
+docs/
+├── VISION.md
+├── PRD.md
+├── PROJECT_ROADMAP.md
+├── SYSTEM_ARCHITECTURE.md
+└── DEVELOPMENT_PLAN.md
