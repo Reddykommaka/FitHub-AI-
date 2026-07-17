@@ -1,0 +1,18 @@
+## Objective
+
+Build a secure authentication system for FitHub AI.
+
+## Tasks
+
+- Email Sign Up
+- Email Login
+- Forgot Password
+- Google Sign-In
+- User Profile Creation
+- Session Persistence
+- Logout
+- Protected Routes
+
+## Expected Outcome
+
+Users can securely create an account, sign in, and access their personalized FitHub AI experience.
